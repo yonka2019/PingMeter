@@ -1,7 +1,7 @@
 # Ping Meter
 <p align=center style><b>Preview:</b></p>
 <div align=center>
- <img alt="Example-APP" src="https://www.linkpicture.com/q/Снимок-экрана-2020-10-13-104732.png">
+ <img alt="Example-APP" src="https://www.linkpicture.com/q/Снимок-экрана-2020-10-13-104941.png">
  <br>
  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/yonka2019/PingMeter">
  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/yonka2019/PingMeter/total?color=2">
