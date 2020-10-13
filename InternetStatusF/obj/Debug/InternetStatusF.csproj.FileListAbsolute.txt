@@ -1,0 +1,11 @@
+P:\VS_Projects\InternetStatusF\InternetStatusF\bin\Debug\InternetStatusF.exe.config
+P:\VS_Projects\InternetStatusF\InternetStatusF\bin\Debug\InternetStatusF.exe
+P:\VS_Projects\InternetStatusF\InternetStatusF\bin\Debug\InternetStatusF.pdb
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.csprojAssemblyReference.cache
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.MainForm.resources
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.Properties.Resources.resources
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.csproj.GenerateResource.cache
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.csproj.CoreCompileInputs.cache
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.exe
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.pdb
+P:\VS_Projects\InternetStatusF\InternetStatusF\obj\Debug\InternetStatusF.EditPing.resources
