@@ -4,6 +4,11 @@ using System.Net.NetworkInformation;
 using System.Threading;
 using System.Windows.Forms;
 
+/*
+ * Created on: 13.10.2020
+ * Developer: Yonka
+ */
+
 namespace InternetStatusF
 {
     public partial class MainForm : Form
@@ -21,6 +26,7 @@ namespace InternetStatusF
         {
             UpdateTitle();
             tip.SetToolTip(SettingsB, "Settings");
+            tip.SetToolTip(CPPB, "By Yonka");
             PPB.PerformClick();
         }
 

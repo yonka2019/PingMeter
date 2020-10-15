@@ -39,9 +39,11 @@
             this.label2 = new System.Windows.Forms.Label();
             this.PingChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.CleanB = new System.Windows.Forms.Button();
+            this.CPPB = new System.Windows.Forms.PictureBox();
             this.PPB = new System.Windows.Forms.Button();
             this.SettingsB = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.PingChart)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.CPPB)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -117,6 +119,15 @@
             this.CleanB.UseVisualStyleBackColor = true;
             this.CleanB.Click += new System.EventHandler(this.CleanB_Click);
             // 
+            // CPPB
+            // 
+            this.CPPB.Image = global::InternetStatusF.Properties.Resources.CopyRight;
+            this.CPPB.Location = new System.Drawing.Point(754, 12);
+            this.CPPB.Name = "CPPB";
+            this.CPPB.Size = new System.Drawing.Size(30, 30);
+            this.CPPB.TabIndex = 9;
+            this.CPPB.TabStop = false;
+            // 
             // PPB
             // 
             this.PPB.Image = global::InternetStatusF.Properties.Resources.Play;
@@ -142,6 +153,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(796, 438);
+            this.Controls.Add(this.CPPB);
             this.Controls.Add(this.PPB);
             this.Controls.Add(this.SettingsB);
             this.Controls.Add(this.CleanB);
@@ -159,6 +171,7 @@
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.PingChart)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.CPPB)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -174,6 +187,7 @@
         private System.Windows.Forms.Button SettingsB;
         private System.Windows.Forms.DataVisualization.Charting.Chart PingChart;
         private System.Windows.Forms.Button PPB;
+        private System.Windows.Forms.PictureBox CPPB;
     }
 }
 
